@@ -1,8 +1,13 @@
 # Library Inventory Manager
+
 **Submitted by:** Kaushal 
-**Course:** Programming for Problem Solving using Python  
-**Assignment Title:** Object-Oriented Design and Robust Programming in a Library Management System  
+
 **Roll Number:** 2501730085
+
+**Course:** Programming for Problem Solving using Python 
+
+**Assignment Title:** Object-Oriented Design and Robust Programming in a Library Management System
+
 **Submission Date:** 4 Dec, 2025
 
 
@@ -39,3 +44,4 @@ library-inventory-manager/
 ├─ library.log
 ├─ README.md
 └─ requirements.txt
+
