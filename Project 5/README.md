@@ -1,9 +1,15 @@
 # Campus Energy Dashboard
+
 **Submitted by:** Kaushal 
-**Course:** Programming for Problem Solving using Python  
-**Assignment Title:**  End-to-End Energy Consumption Analysis and Visualization
+
 **Roll Number:** 2501730085
+
+**Course:** Programming for Problem Solving using Python 
+
+**Assignment Title:**  End-to-End Energy Consumption Analysis and Visualization
+
 **Submission Date:** 4 Dec, 2025
+
 ## Objective
 The goal of this project is to analyze and visualize electricity consumption across campus buildings. By building a Python-based end-to-end dashboard, we provide insights into energy usage patterns, peak consumption periods, and building-wise summaries to support energy-saving decisions.
 
@@ -66,4 +72,5 @@ Campus_Energy_Dashboard/
 │   ├── building_summary.csv
 │   └── summary.txt
 ├── task1_ingest.py
+
 ├── dashboard.png
