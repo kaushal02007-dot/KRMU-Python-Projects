@@ -1,8 +1,12 @@
 # Weather Data Visualizer - Report
 **Submitted by:** Kaushal 
-**Course:** Programming for Problem Solving using Python  
-**Assignment Title:** Data Analysis and Visualization with Real-World Weather Data
+
 **Roll Number:** 2501730085
+
+**Course:** Programming for Problem Solving using Python  
+
+**Assignment Title:** Data Analysis and Visualization with Real-World Weather Data
+
 **Submission Date:** 4 Dec, 2025
 
 
@@ -41,4 +45,5 @@
 ## Conclusion
 - The data shows clear seasonal patterns.
 - Insights can help in campus sustainability initiatives (e.g., energy usage planning, weather preparedness).
+
 
