@@ -1,0 +1,9 @@
+2025-12-03 11:15:22,101 - INFO - Book added: Python Programming
+2025-12-03 11:15:45,203 - INFO - Book added: Data Structures
+2025-12-03 11:16:10,305 - INFO - Book issued: Python Programming
+2025-12-03 11:16:25,407 - INFO - Book returned: Python Programming
+2025-12-03 11:16:55,509 - ERROR - Catalog file not found. Creating a new one.
+2025-12-03 11:17:12,612 - WARNING - Tried removing non-existent book: 99999
+2025-12-03 11:17:30,714 - ERROR - Error during operation: invalid literal for int() with base 10: 'abc'
+2025-12-04 15:06:08,732 - INFO - Book added: Harry Potter
+2025-12-04 15:06:08,734 - INFO - Book added: Harry Potter
