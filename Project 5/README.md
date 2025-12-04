@@ -1,4 +1,4 @@
-# Campus Energy Dashboard
+# CAPSTONE PROJECT: Campus Energy Dashboard
 
 **Submitted by:** Kaushal 
 
@@ -74,3 +74,4 @@ Campus_Energy_Dashboard/
 ├── task1_ingest.py
 
 ├── dashboard.png
+
