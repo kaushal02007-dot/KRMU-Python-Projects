@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Python Programming",
+        "author": "John Doe",
+        "isbn": "12345",
+        "status": "available"
+    },
+    {
+        "title": "Data Structures",
+        "author": "Jane Smith",
+        "isbn": "67890",
+        "status": "issued"
+    },
+    {
+        "title": "Algorithms Unlocked",
+        "author": "Thomas H. Cormen",
+        "isbn": "11223",
+        "status": "available"
+    },
+    {
+        "title": "Harry Potter",
+        "author": "J. K. Rowling",
+        "isbn": "55555",
+        "status": "available"
+    }
+]
